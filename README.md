@@ -8,6 +8,9 @@ NinjaShop is a Selenium-Java Automation Test Framework developed to automate end
 The framework is designed using the **Page Object Model (POM)** pattern and follows industry best practices like reusable components, data-driven testing, and structured reporting.
 
 ---
+## Project Design
+<img width="721" height="971" alt="NinjaShop drawio" src="https://github.com/user-attachments/assets/36fbcc5a-aa91-4a72-830d-ef7703a6cba2" />
+
 ## Project Structure
 ```
 NinjaShop/
